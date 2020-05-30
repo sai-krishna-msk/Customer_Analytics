@@ -1,5 +1,4 @@
-<img src="images/CustomerAnalytics.jpg">
-
+<img src="images/3customeranalytics.jpg">
 
 
 # Context and Data
