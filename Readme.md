@@ -1,4 +1,4 @@
-<img src="images/CustomerAnylatics.png">
+<img src="images/CustomerAnalytics.jpg">
 
 
 
