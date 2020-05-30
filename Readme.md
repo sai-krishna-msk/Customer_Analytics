@@ -1,3 +1,7 @@
+<img src="images/Emerging saas marketing trends1.jpg">
+
+
+
 # Context and Data
 **The dataset consists of information about the purchases of chocolate candy bars(5 different brands) of 500 individuals from a given area when entering a physical ‘FMCG’ store in a period of 2 years. All data has been collected through the loyalty cards they use at checkout. The data has been preprocessed and there are no missing values. In addition, the volume of the dataset has been restricted and anonymized to protect the privacy of the customers.**
 
