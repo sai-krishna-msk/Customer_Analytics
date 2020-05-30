@@ -101,7 +101,7 @@ As we have both customer purchase data and customer demographic data, we will be
 - Can’t Lose Them(valuable)
 - Lost
 
-**Unlike in segments generated using K-Means these are industry-standard labels, How to treat these segment to benefit the most is also well documented)[https://www.putler.com/rfm-analysis/], these segments would also help us in identifying customers most likely to churn**
+**Unlike in segments generated using K-Means these are industry-standard labels, How to treat these segment to benefit the most is also well (documented)[https://www.putler.com/rfm-analysis/], these segments would also help us in identifying customers most likely to churn**
 
 ## Price Elasticity
 
