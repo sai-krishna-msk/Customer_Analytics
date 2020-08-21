@@ -95,6 +95,7 @@ As we have 5 different brands and their respective purchase data, Computing cros
 *All of  the results shown can be found in the notebooks present in [github](https://github.com/sai-krishna-msk/Customer_Anylatics)*
 
 <br>
+
 ## Segmentation
 
 <br>
